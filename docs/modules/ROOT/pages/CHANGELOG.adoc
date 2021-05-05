@@ -1,0 +1,12 @@
+= Changelog
+
+:sectnums!:
+
+== link:++https://github.com/saltstack-formulas/rng-tools-formula/compare/v0.1.0...v0.2.0++[0.2.0^] (2020-09-20)
+
+=== Features
+
+* *semantic-release:* standardise structure
+(https://github.com/saltstack-formulas/rng-tools-formula/commit/9e275c6f71b6499cd6981bcef19a0b88249d360f[9e275c6^]),
+closes
+https://github.com/saltstack-formulas/rng-tools-formula/issues/1[#1^]
